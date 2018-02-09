@@ -1,6 +1,6 @@
-#include "LCL_Menu.h"
+#include "LCL/Menu/LCL_Menu.h"
 
-#include "LCL_MenuUtils.h"
+#include "LCL/Menu/LCL_MenuUtils.h"
 
 #include <cstring>
 #include <string>

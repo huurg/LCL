@@ -1,11 +1,11 @@
-#include "LCL_RealMatrix.h"
+#include "LCL/LCL_RealMatrix.h"
 
 #include <iostream>
 using namespace std;
 
 #include <ostream>
 
-#include "LCL_ConsoleOut.h"
+#include "LCL/Core/LCL_ConsoleOut.h"
 using namespace LCL_ConsoleOut;
 
 template <int N, int M>

@@ -1,11 +1,11 @@
-#include "LCL_BooleanMatrix.h"
+#include "LCL/LCL_BooleanMatrix.h"
 
 #include <iostream>
 using namespace std;
 
 #include <ostream>
 
-#include "LCL_ConsoleOut.h"
+#include "LCL/Core/LCL_ConsoleOut.h"
 using namespace LCL_ConsoleOut;
 
 bool LCL_BOOLEAN_MATRIX_DUMMY = 0;
